@@ -1,3 +1,2 @@
 CREATE TABLE `tbl_student_info`.`employees` ( `fname` VARCHAR(20) NOT NULL , 
-					      `lname` VARCHAR(20) NOT NULL , `title` VARCHAR(20) NOT NULL , `age` INT NOT NULL , `salary` INT NOT NULL ,
-					      `DateTime_created` TIMESTAMP NOT NULL ) ENGINE = InnoDB;
+					      `lname` VARCHAR(20) NOT NULL , `title` VARCHAR(20) NOT NULL , `age` INT NOT NULL , 							`salary(4)`INT NOT NULL , `DateTime_created` TIMESTAMP NOT NULL ) ENGINE = InnoDB;
